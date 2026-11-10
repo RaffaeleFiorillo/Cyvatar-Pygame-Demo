@@ -1,7 +1,9 @@
 # Cyvatar
 2D Game with a similar Battle style of Megaman Battle Network but with a personal touch.
 
-  I'm not sure if I should continue this project using pygame, since the performance limitations could become a problem later on. In any case, I will leave this repository here for anyone that would like an initial good foundation to improve upon istead of starting from zero. 
+  This project will not be continued in this repository, since I started worrying about the performance limitations (which may become a problem later on). Instead, I will continue working on this game [in this other repository](https://github.com/RaffaeleFiorillo/Cyvatar).
+  
+  In any case, I will leave this repository here for anyone that would like an initial good foundation to improve upon, instead of starting from zero. 
 
 <img width="963" height="563" alt="Screenshot 2026-11-08 111712" src="https://github.com/user-attachments/assets/5d824141-5372-4ad6-9b11-31cf2d4d3a22" />
 
